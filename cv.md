@@ -15,7 +15,7 @@
 1. I am 31 years old. I interested to start learning JavaScript and understand how web development is working.  
 Finished book *Head First HTML with CSS & XHTML* and studying *Head First JavaScript Programming: A Brain-Friendly Guide* now.  
 2. Have basic level HTML, CSS, JavaScrpt.
-3. ``` javascript
+3. ```
         function CreateStep() {
             let count = 0;
             return function () {
@@ -24,7 +24,7 @@ Finished book *Head First HTML with CSS & XHTML* and studying *Head First JavaSc
             }
             console.log(count);
         };
-        ```  
+   ```  
 
 4. Have no experience in working with real projects.  
 5. Graduated from Belarussian National Technical Unversity in 2012. Energy faculty.
