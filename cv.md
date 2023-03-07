@@ -32,3 +32,10 @@ function addZero(n) {
 
 #### Expierence
 * My first own project: (https://createmax.site/formula/index.html)
+  
+#### Education
+* Belarusian National Technical University (Faculty of Energy)
+* courses Udemy academy
+
+#### English
+A2 (I have been stying English in school, university and got some practice in USA during student exchange program)  
